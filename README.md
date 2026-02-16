@@ -44,23 +44,6 @@ Sistema web de gestión de usuarios desarrollado con React, TypeScript y Tailwin
 
 ---
 
-## 🎥 Demo
-
-<!-- Agrega aquí capturas de pantalla o GIFs de tu aplicación -->
-
-### Pantalla de Login
-![Login Screenshot](docs/screenshots/login.png)
-
-### Dashboard de Usuarios
-![Dashboard Screenshot](docs/screenshots/dashboard.png)
-
-### Edición de Usuario
-![Edit Screenshot](docs/screenshots/edit.png)
-
-> **Nota:** Agrega tus capturas de pantalla en la carpeta `docs/screenshots/`
-
----
-
 ## 🛠️ Tecnologías
 
 ### Frontend
