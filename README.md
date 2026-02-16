@@ -10,25 +10,6 @@ Sistema web de gestión de usuarios desarrollado con React, TypeScript y Tailwin
 
 ---
 
-## 📋 Tabla de Contenidos
-
-- [Características](#-características)
-- [Demo](#-demo)
-- [Tecnologías](#-tecnologías)
-- [Requisitos Previos](#-requisitos-previos)
-- [Instalación](#-instalación)
-- [Uso](#-uso)
-- [Estructura del Proyecto](#-estructura-del-proyecto)
-- [Scripts Disponibles](#-scripts-disponibles)
-- [Funcionalidades Detalladas](#-funcionalidades-detalladas)
-- [Credenciales de Prueba](#-credenciales-de-prueba)
-- [Deploy](#-deploy)
-- [Contribución](#-contribución)
-- [Licencia](#-licencia)
-- [Autor](#-autor)
-
----
-
 ## ✨ Características
 
 - ✅ **Autenticación** - Sistema de login con validación de credenciales
