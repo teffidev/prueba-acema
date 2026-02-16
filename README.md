@@ -6,7 +6,6 @@ Sistema web de gestión de usuarios desarrollado con React, TypeScript y Tailwin
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2.2-3178c6?style=flat&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4.0-38bdf8?style=flat&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-5.0.8-646cff?style=flat&logo=vite)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
